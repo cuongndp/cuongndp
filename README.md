@@ -11,13 +11,6 @@
 
 ###
 
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cuongndp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <!-- About Me Section -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=About+Me+✨" />
@@ -26,16 +19,12 @@
 ###
 
 <div align="center">
-  
-  - 🔭 I'm currently working on **Student at the University of Transport, Ho Chi Minh City**
-  
-  - 🌱 I'm currently learning **Công nghệ thông tin**
-  
-  - 🎂 Date of Birth: **10/10/2005**
-  
-  - 📍 Location: **Thôn Đại Bình, Xã Hòa Quang Nam, Huyện Phú Hòa, Tỉnh Phú Yên**
-  
-  - 📫 How to reach me **nguyencuongphpy@gmail.com**
+
+| 👨‍💻 Personal Information | 🎓 Education & Career |
+|:---:|:---:|
+| 🎂 **Date of Birth**<br>**10/10/2005** | 🔭 **Currently**<br>Student at the University of Transport<br>Ho Chi Minh City |
+| 📍 **Location**<br>Thôn Đại Bình, Xã Hòa Quang Nam<br>Huyện Phú Hòa, Tỉnh Phú Yên | 🌱 **Learning**<br>**Công nghệ thông tin** |
+| 📧 **Email**<br>[nguyencuongphpy@gmail.com](mailto:nguyencuongphpy@gmail.com) | 💻 **Focus**<br>**C# \| .NET \| Backend Development** |
 
 </div>
 
@@ -49,21 +38,27 @@
 ###
 
 <div align="center">
-  <!-- Add your skill icons here -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <!-- Backend Skills -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="50" alt="dotnet logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="sqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="12" />
+  <!-- Frontend Skills -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
@@ -73,15 +68,23 @@
 
 <!-- Tech Stack Badges -->
 <div align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" height="35" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="35" alt="dotnet logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="35" alt="aspnet logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" height="35" alt="sqlserver logo"  />
+  <img width="5" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
 </div>
 
 ###
