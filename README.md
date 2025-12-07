@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  - 🔭 I'm currently working on **Sinh viên**
+  - 🔭 I'm currently working on **Student at the University of Transport, Ho Chi Minh City**
   
   - 🌱 I'm currently learning **Công nghệ thông tin**
   
