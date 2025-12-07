@@ -10,13 +10,6 @@
 
 ###
 
-<!-- Avatar Image -->
-<div align="center">
-  <img src="426537584_946013453755518_8165834419515550346_n.jpg" alt="Avatar" width="200" style="border-radius: 50%; border: 3px solid #bd93f9;" />
-</div>
-
-###
-
 <!-- Main Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cuongndp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="150" alt="stats graph"  />
@@ -44,6 +37,10 @@
   - 🔭 I'm currently working on **Sinh viên**
   
   - 🌱 I'm currently learning **Công nghệ thông tin**
+  
+  - 🎂 Date of Birth: **10/10/2005**
+  
+  - 📍 Location: **Thôn Đại Bình, Xã Hòa Quang Nam, Huyện Phú Hòa, Tỉnh Phú Yên**
   
   - 📫 How to reach me **nguyencuongphpy@gmail.com**
 
@@ -136,19 +133,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-###
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=GitHub+Trophies+🏆" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cuongndp&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="trophy" />
 </div>
 
 ###
