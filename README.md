@@ -20,11 +20,66 @@
 
 <div align="center">
 
-| 👨‍💻 Personal Information | 🎓 Education & Career |
-|:---:|:---:|
-| 🎂 **Date of Birth**<br>**10/10/2005** | 🔭 **Currently**<br>Student at the University of Transport<br>Ho Chi Minh City |
-| 📍 **Location**<br>Thôn Đại Bình, Xã Hòa Quang Nam<br>Huyện Phú Hòa, Tỉnh Phú Yên | 🌱 **Learning**<br>**Công nghệ thông tin** |
-| 📧 **Email**<br>[nguyencuongphpy@gmail.com](mailto:nguyencuongphpy@gmail.com) | 💻 **Focus**<br>**C# \| .NET \| Backend Development** |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4); border: 2px solid #bd93f9;">
+
+<h3 align="center" style="color: #fff; margin-top: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">👨‍💻 Personal Information</h3>
+
+<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
+
+<p style="color: #fff; margin: 10px 0;">
+<strong style="color: #ffd700;">🎂 Date of Birth</strong><br>
+<span style="font-size: 18px; font-weight: bold;">10/10/2005</span>
+</p>
+
+<p style="color: #fff; margin: 10px 0;">
+<strong style="color: #ffd700;">📍 Location</strong><br>
+Thôn Đại Bình, Xã Hòa Quang Nam<br>
+Huyện Phú Hòa, Tỉnh Phú Yên
+</p>
+
+<p style="color: #fff; margin: 10px 0;">
+<strong style="color: #ffd700;">📧 Email</strong><br>
+<a href="mailto:nguyencuongphpy@gmail.com" style="color: #87ceeb; text-decoration: none; font-weight: bold;">nguyencuongphpy@gmail.com</a>
+</p>
+
+</div>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(245, 87, 108, 0.4); border: 2px solid #bd93f9;">
+
+<h3 align="center" style="color: #fff; margin-top: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🎓 Education & Career</h3>
+
+<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
+
+<p style="color: #fff; margin: 10px 0;">
+<strong style="color: #ffd700;">🔭 Currently</strong><br>
+Student at the University of Transport<br>
+Ho Chi Minh City
+</p>
+
+<p style="color: #fff; margin: 10px 0;">
+<strong style="color: #ffd700;">🌱 Learning</strong><br>
+<span style="font-size: 18px; font-weight: bold;">Công nghệ thông tin</span>
+</p>
+
+<p style="color: #fff; margin: 10px 0;">
+<strong style="color: #ffd700;">💻 Focus</strong><br>
+<span style="font-size: 18px; font-weight: bold;">C# | .NET | Backend Development</span>
+</p>
+
+</div>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -37,31 +92,39 @@
 
 ###
 
-<div align="center">
-  <!-- Backend Skills -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="50" alt="dotnet logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="sqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <!-- Frontend Skills -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+<div align="center" style="background: linear-gradient(90deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%); padding: 25px; border-radius: 20px; border: 2px solid #bd93f9; box-shadow: 0 4px 15px rgba(189, 147, 249, 0.3);">
+  
+  <h4 style="color: #bd93f9; margin-bottom: 15px;">🔧 Backend Technologies</h4>
+  <div style="margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo" style="filter: drop-shadow(0 4px 8px rgba(35,145,32,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="55" alt="dotnetcore logo" style="filter: drop-shadow(0 4px 8px rgba(81,43,212,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="55" alt="dotnet logo" style="filter: drop-shadow(0 4px 8px rgba(81,43,212,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="55" alt="sqlserver logo" style="filter: drop-shadow(0 4px 8px rgba(204,41,39,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="55" alt="mysql logo" style="filter: drop-shadow(0 4px 8px rgba(0,117,143,0.4));"  />
+  </div>
+  
+  <h4 style="color: #bd93f9; margin-bottom: 15px; margin-top: 25px;">🎨 Frontend Technologies</h4>
+  <div style="margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" style="filter: drop-shadow(0 4px 8px rgba(227,79,38,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" style="filter: drop-shadow(0 4px 8px rgba(21,114,182,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" style="filter: drop-shadow(0 4px 8px rgba(247,223,30,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo" style="filter: drop-shadow(0 4px 8px rgba(121,82,179,0.4));"  />
+  </div>
+  
+  <h4 style="color: #bd93f9; margin-bottom: 15px; margin-top: 25px;">🛠️ Tools</h4>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo" style="filter: drop-shadow(0 4px 8px rgba(240,81,51,0.4));"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo" style="filter: drop-shadow(0 4px 8px rgba(24,23,23,0.4));"  />
+  </div>
+  
 </div>
 
 ###
