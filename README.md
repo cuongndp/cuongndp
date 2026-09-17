@@ -146,24 +146,4 @@ A backend RESTful API built with ASP.NET Core Web API and .NET 8.
 
 </div>
 
-### Project Overview
 
-This project focuses on implementing a backend authentication system
-using ASP.NET Core Web API.
-
-The project is designed with a 3-tier architecture:
-
-```text
-Client
-   │
-   ▼
-Application
-   │
-   ▼
-Business
-   │
-   ▼
-DataAccess
-   │
-   ▼
-SQL Server
